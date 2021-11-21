@@ -221,7 +221,7 @@ class ListProducts extends React.Component {
             <table className="table table-stripe">
               <thead>
                 <tr>
-                  <th>PartNo.</th>
+                  <th>PartNo</th>
                   <th>Date</th>
                   <th>OrderId</th>
                   <th>poStatus</th>
